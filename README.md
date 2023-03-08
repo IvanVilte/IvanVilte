@@ -22,5 +22,5 @@ la Programación en Java.
 |Alias|Descripción|
 |-----|-----------|
 |cl| Alias para el comando ```clear```. Sirve para limpiar la terminal.|
-|findd| Alias para el comando ```ls ~/ | grep <palabra>```. Sirve para filtrar las carpetas de nuestro directorio de usuario dada una palabra.|
+|findd| Alias para el comando  ```ls ~/ \| grep <palabra>```. Sirve para filtrar las carpetas de nuestro directorio de usuario dada una palabra.|
 |gadd| Alias para el comando ```git add```. Sirve para añadir el proyecto al staging area.|
